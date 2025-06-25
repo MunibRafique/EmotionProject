@@ -35,4 +35,8 @@ Ye Python project aapke chehre se emotion detect karta hai (happy, sad, angry, e
 
 1. Python install karein (>= 3.8 recommended)  
 2. Terminal open karein aur dependencies install karein:
+3. pip install -r requirements.txt
+4. python emotion_music.py (run karein)
+
+
 
